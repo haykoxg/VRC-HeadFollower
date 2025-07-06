@@ -2,6 +2,7 @@
 	Author: Hayko_XG
 
 Description
+
 This system includes two UdonSharp scripts designed for attaching objects to a player's head in VRChat, with multiple behavior modes. 
 You can choose between local-only tracking (only affects the current player) or global tracking (all players see head attachments on each other).
 ---------------------------------------------------------------------------------------------------------------------------------------------
