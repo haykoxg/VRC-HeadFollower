@@ -71,7 +71,7 @@ To test in Unity:
 
 Use crouching, head movement, or look direction to validate behavior.
 ---------------------------------------------------------------------------------------------------------------------------------------------
-If anything is broken, contact me on discord @ [haykoxg]
+	If anything is broken, contact me on discord @ [haykoxg]
 ---------------------------------------------------------------------------------------------------------------------------------------------
 		Courtesy of Icurus Armories...
 	 - NOT AFFILIATED WITH PROJECT WINGMAN-
