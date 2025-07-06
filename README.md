@@ -42,19 +42,19 @@ The positions of the children under the script GameObject will stay the same, on
 Array Behaviors:
 Each array defines a different way of following the head. These work the same in both local and global scripts.
 
-Position Only Objets
+- Position Only Objets
 Objects in here will only move with the player, they will not be affected at all by rotation.
 Reccomended uses are for Rain, Sfx, Fog or Screen FX
 
-Position and Rotation Objects
+- Position and Rotation Objects
 Objects in this array will follow the players movement and head rotation
 This is good for HUDs and particles firing from the players head.
 
-Smoothed Objects
+- Smoothed Objects
 Objects in this array will function the exact same as the array above but will have smoothing applied. The speed of the smoothing can be adjusted at the bottom
 You can use this for more styalised HUD choices.
 
-Rotation Only Objects
+- Rotation Only Objects
 Objects in here will not move with the players head, they will act like the first array, however they will only rotate arround itself, it will point in the same direction as the players head (Not pointing to where they are looking, just rotating the same)
 Ill be honest, i dont know what uses this has so go nuts.
 ---------------------------------------------------------------------------------------------------------------------------------------------
