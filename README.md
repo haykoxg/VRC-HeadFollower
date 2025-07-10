@@ -60,7 +60,7 @@ Ill be honest, i dont know what uses this has so go nuts.
 Usage Tips
 You can leave any array empty if unused. You can mix and match arrays on the same handler object.
 The handler automatically finds and snaps to the head bone at start. 
-Do not reposition the handler object manually in the scene — all positioning should be done relative to the handler. Reccomend you zero the object to the world.
+Do not reposition the handler object manually in the scene, all positioning should be done relative to the handler. Reccomend you zero the object to the world.
 
 Testing
 To test in Unity:
